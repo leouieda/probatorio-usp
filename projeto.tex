@@ -55,6 +55,8 @@
 % To get the number of pages in the document
 \usepackage{lastpage}
 \usepackage{ragged2e}
+% Control over enumerate and itemize
+\usepackage{enumitem}
 % To define custom environments
 \usepackage{environ}
 \usepackage{mdframed}
@@ -143,27 +145,37 @@
 }
 
 % Define fancy text boxes
-\NewEnviron{summarybox}{%
+\NewEnviron{summarybox}[1]{%
   \mdfdefinestyle{summarybox_}{%
     leftline=true,
     rightline=false,
     topline=false,
     bottomline=false,
-    linewidth=2pt,
+    linewidth=3pt,
     linecolor=mediumblue,
     backgroundcolor=lightblue,
     innertopmargin=12pt,
     innerbottommargin=12pt,
     innerleftmargin=12pt,
     innerrightmargin=12pt,
-    skipbelow=5pt,
-    skipabove=5pt,
+    skipbelow=15pt,
+    skipabove=15pt,
+    frametitleaboveskip=12pt,
+    frametitlebelowskip=5pt,
   }
   \newmdenv[style=summarybox_]{summarybox_}
-  \begin{summarybox_}
-    \footnotesize
+  \begin{summarybox_}[frametitle=#1]
     \BODY
   \end{summarybox_}
+}
+
+% Make a list with no margin and smaller spacing for use with the summaryboxes
+\NewEnviron{listnomargin}[1]{%
+  % Remove spacing between enumerate/itemize items
+  \setlist{nosep}
+  \begin{#1}[leftmargin=*]
+    \BODY
+  \end{#1}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -227,11 +239,10 @@ Comissão de Cooperação Nacional e Internacional
 Resumo
 
 
-\section{Integração de dados magnéticos aéreos e de satélite para a determinação do fluxo geotermal Antártico}
-
-\begin{equation}
-  q_z = c_t \dfrac{\partial T}{\partial z} \approx c_t \dfrac{T_s - T_c}{\Delta z_c},
-\end{equation}
+\section{%
+  Projeto: Integração de dados magnéticos aéreos e de satélite para a
+  determinação do fluxo geotermal Antártico
+}
 
 \subsection{Enunciado do problema}
 % Qual será o problema tratado pelo projeto e qual sua importância? Qual será a
@@ -346,6 +357,20 @@ crustal e evolução tectônica da Antártica, sobre as limitações do uso de d
 magnéticos mesmo com métodos novos de processamento e também sobre os fatores
 que controlam o fluxo geotermal embaixo das geleiras.
 
+\begin{summarybox}{\faBullseye{} Objetivos principais}
+  \begin{listnomargin}{enumerate}
+    \item Combinar todos os dados magnéticos de satélite e aéreos disponíveis
+      para a Antártica em um novo conjunto de dados com espaçamento e altitude
+      uniformes.
+    \item Transformar os dados de anomalia magnética de campo total ($\Delta
+      T$) em dados de amplitude total do campo magnético anômalo
+      ($\|\mathbf{B}\|$), que são menos sensíveis à variações na direção de
+      magnetização das fontes.
+    \item Utilizar os novos dados de amplitude total do campo para estimar a
+      profundidade da isoterma de Curie e o fluxo geotermal na base das
+      geleiras antárticas.
+  \end{listnomargin}
+\end{summarybox}
 
 \subsection{Resultados esperados}
 % O que será criado ou produzido como resultado o projeto proposto?
@@ -401,6 +426,14 @@ abertas:
     oceanos adjacentes [etapas 1 e 2].
 \end{enumerate}
 
+\subsection{Desafios científicos e tecnológicos}
+% Explicite os desafios científicos e tecnológicos que o projeto se propõe a
+% superar para atingir os objetivos. Descreva com que meios e métodos estes
+% desafios poderão ser vencidos. Cite referências que ajudem os assessores que
+% analisarão a proposta a entenderem que os desafios mencionados não foram
+% ainda vencidos (ou ainda não foram vencidos de forma adequada) e que poderão
+% ser vencidos com os métodos e meios da proposta em análise.
+
 \subsection{Disseminação e avaliação}
 % Como os resultados do projeto deverão ser avaliados e como serão
 % disseminados?
@@ -439,6 +472,13 @@ A disseminação dos resultados será feita através de:
     MinuteEarth para divulgar os resultados de um projeto da NSF:
     \url{https://youtu.be/J6d0UqY6IsA}}.
 \end{itemize}
+
+\subsection{Outros apoios}
+% Demonstre outros apoios ao projeto, se houver, em forma de fundos, bens ou
+% serviços, mas sem incluir itens como uso de instalações da instituição que já
+% estão disponíveis. Note que os autores das propostas selecionadas deverão
+% apresentar carta oficial assinada pelo dirigente da instituição,
+% comprometendo os recursos e bens adicionais descritos na proposta.
 
 
 %==============================================================================
