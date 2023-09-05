@@ -93,8 +93,9 @@
 \interfootnotelinepenalty=10000
 
 % Customize how Chapter headings are displayed
-\titleformat{\chapter}[display]{\normalfont}{\large Parte \thechapter}{0pt}{\huge\onehalfspacing}[\titlerule]
-\titlespacing*{\chapter}{0pt}{-20pt}{20pt}
+\titleclass{\chapter}{straight}
+\titleformat{\chapter}[display]{\normalfont}{}{0pt}{\onehalfspacing\ifnum\thechapter>0 \Large\thechapter. \fi\huge}[\titlerule]
+\titlespacing*{\chapter}{0pt}{20pt}{20pt}
 
 % Custom colors
 \definecolor{darkgray}{gray}{0.4}
