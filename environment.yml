@@ -1,10 +1,9 @@
-name: projeto-probatorio
+name: probatorio-sup
 channels:
   - conda-forge
-  - defaults
 dependencies:
   # Should be on every project
-  - python==3.10.*
+  - python==3.13.*
   # For building latex documents
   - make
   - tectonic
