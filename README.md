@@ -1,4 +1,4 @@
-# Probatório -- USP
+# Probatório — USP
 
 Documentos submetidos para o Estágio Docente da USP (equivalente ao período de probatório).
 
