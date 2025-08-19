@@ -24,7 +24,7 @@
 
 > Indicar as atividades realizadas do seu projeto de estágio e as metas atingidas, justificando aquelas não atingidas, de acordo com seu regime de trabalho.
 
-As atividades que me propus a realizar no meu PED foram:
+Abaixo estão as atividades que me propus a realizar e meu progresso em cada uma:
 
 1. Escola de Verão da Geofísica: Nos últimos dois anos, ministrei cursos nas edições de 2024 e 2025 da Escola de Verão da Geofísica do IAG/USP. Em 2024, ministrei o curso de extensão de 30 horas "Modelagem e Interpretação de Dados de Gravimetria e Magnetometria", que também foi registrado como a disciplina optativa da pós-graduação AGG5954. Já em 2025, ministrei o curso de extensão de 15 horas "Kit de sobrevivência digital para cientistas", que teve como objetivo difundir as práticas de ciência aberta e reprodutibilidade. O material desenvolvido para o curso está disponível em https://github.com/compgeolab/kit. Por conta da grande demanda existente, oferecerei novamente esse curso na Escola de Verão da Geofísica de 2026.
 
