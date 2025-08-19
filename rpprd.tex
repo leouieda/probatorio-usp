@@ -1,0 +1,153 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Set a class and general configuration
+\documentclass[a4paper,onecolumn,10pt]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Set variables with the title, authors, etc.
+\newcommand{\Titulo}{Relatório de Participação no Programa de Recepção Docente}
+\newcommand{\Nome}{Leonardo Uieda}
+\newcommand{\Cargo}{Professor Doutor}
+\newcommand{\Email}{uieda@usp.br}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Import the required packages
+\usepackage[utf8]{inputenc}
+\usepackage[TU]{fontenc}
+\usepackage[brazil]{babel}
+%\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage{microtype}
+\usepackage{xcolor}
+% improved urls with proper hyphenation
+\usepackage{xurl}
+% Use a different font
+\usepackage[default,scale=0.95]{opensans}
+% Icons and fonts (requires using xelatex or luatex)
+\usepackage{fontawesome5}
+\usepackage{academicons}
+% Control the font size
+\usepackage{anyfontsize}
+\usepackage{setspace}
+% Generate random text
+\usepackage{lipsum}
+% Better left and right align
+\usepackage{ragged2e}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Configuration of the document
+
+\geometry{%
+  left=25mm,
+  right=15mm,
+  top=15mm,
+  bottom=15mm,
+  headsep=15mm,
+  headheight=15mm,
+  footskip=7mm,
+  includehead=true,
+  includefoot=true
+}
+
+% Control line spacing
+\onehalfspacing
+\newcommand{\Padding}{\vspace{0.5cm}}
+
+% Custom colors
+\definecolor{darkgray}{gray}{0.4}
+\definecolor{mediumgray}{gray}{0.5}
+\definecolor{lightgray}{gray}{0.9}
+\definecolor{mediumblue}{HTML}{2060c2}
+\definecolor{lightblue}{HTML}{f7faff}
+
+% Make urls use the same font as every other text
+\urlstyle{same}
+
+% Configure hyperref and add PDF metadata
+\hypersetup{
+    colorlinks,
+    allcolors=mediumblue,
+    pdftitle={\Titulo},
+    pdfauthor={\Nome},
+    breaklinks=true,
+}
+
+% Configure header and footer
+\newcommand{\HeaderFont}{\footnotesize\color{mediumgray}}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{%
+  \includegraphics[height=1.5cm]{figures/usp.png}
+}
+\lhead{%
+  \includegraphics[height=1.5cm]{figures/iag.png}
+}
+\cfoot{%
+  \HeaderFont{}
+  \Centering
+  \onehalfspacing
+  Rua do Matão, 1226 - São Paulo, SP, Brasil, 05508-090
+  \newline
+  E-mail: \href{mailto:\Email}{\Email};
+  Website: \href{https://www.iag.usp.br}{www.iag.usp.br}
+}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{1pt}
+\preto{\footrule}{\color{lightgray}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\noindent\textbf{\large \Titulo}
+\Padding
+
+No dia 29 de maio de 2025, participei o evento obrigatório ``Boas-vindas,
+docentes'' organizado pela CERT no Anfiteatro Camargo Guarnieri da Cidade
+Universitária em São Paulo -- SP junto com 324 outros novos docentes.
+O evento foi iniciado pela apresentação ``Movimento Cultural'' da Orquestra
+Sinfônica da Universidade de São Paulo.
+Em seguida, tivemos cerca de duas horas e trinta minutos de palestras diversas.
+Primeiro tivemos uma abertura do Reitor Carlos Gilberto Carlotti Junior,
+seguido de uma palestra do Assessor da Diretoria Científica da FAPESP Sylvio
+Roberto Accioly Canuto.
+A próxima apresentação foi feita pela Presidente da CERT Anna Helena Reali
+Costa.
+Em seguida, o ``Painel de Diálogo com Inovas'' contou com apresentações do
+diretor do Centro de Inovação InovaUSP, Marcelo Knörich Zuffo, e o coordenador
+do polo do InovaUSP em São Carlos, Tito José Bonagamba.
+O painel foi moderado por Luiz Henrique Catalani, Coordenador da Agência
+USP de Inovação.
+A próxima apresentação foi intitulada ``USP em Números'' e feita por Fátima de
+Lourdes dos Santos Nunes, Coordenadora do Escritório de gestão de Indicadores
+de Desempenho Acadêmico.
+Por fim, tivemos uma pausa no evento para almoço individual.
+
+Na parte da tarde, a programação contou com mais uma sessão de aproximadamente
+duas horas de palestras, iniciando com uma apresentação do vídeo
+institucional da USP e finalizando com
+``Painel de Diálogo'' com os pró-reitores Aluísio Segurado (Graduação), Rodrigo
+Calado (Pós-Graduação), Paulo Nussenzveig (Pesquisa e Inovação), Ana Lanna
+(Inclusão e Pertencimento) e Hussam El Dine Zaher (adjunto de Cultura
+e Extensão Universitária).
+A mediação do painel foi feita pelo chefe do Gabinete do Reitor,
+Arlindo Philippi Junior.
+Ao final, tivemos uma breve sessão de perguntas e o encerramento da reunião.
+
+
+\Padding
+\noindent\Nome{}
+\\[0.25cm]
+{
+\color{mediumgray}
+\small
+\Cargo
+\\
+Departamento de Geofísica
+\\
+Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+\\
+Universidade de São Paulo
+}
+\end{document}
