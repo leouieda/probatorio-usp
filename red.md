@@ -93,7 +93,7 @@ Abaixo estão as atividades que me propus a realizar e meu progresso em cada uma
 
 4. Student Chapter da SEG: A Society of Exploration Geophysicists (SEG) possui um programa de "capítulos estudantis" que representam a unidade junto á SEG. O IAG teve um Capítulo ativo até 2017, porém as atividades foram aparentemente encerradas. Meu objetivo era encontrar novos estudantes para formar o Capítulo novamente. Embora tenha conversando com diversos estudantes sobre o assunto, não fui capaz de encontrar um número suficientemente grande de estudantes interessados para formarem uma diretoria. Pretendo continuar a procura no futuro.
 
-5. Workshop sobre software livre na geofísica: Em julho de 2023, eu e meus colaboradores organizamos o workshop "Open-Source Tools to Enable Geophysical Data Processing and Inversion", na Banff International Resarch Station (BIRS), Canadá. Meu objetivo era organizar uma segunda edição deste encontro em São Paulo. Em 2025 iniciamos um grupo de interessados de ambos os projetos para organizar tal evento. Minha estimativa inicial de organizar o evento ainda 2025 foi precipitada e não havia previsto o tempo que seria necessário corretamente. Atualmente estamos pesquisando as possíveis fontes de financiamento disponíveis. Esperamos preparar uma proposta que possa ser enviada em 2026 para diversas fontes de financiamento. O planejamento do evento está sendo feito de forma aberta e colaborativa em https://hackmd.io/@leouieda/geosprint.
+5. Workshop sobre software livre na geofísica: Em julho de 2023, eu e meus colaboradores organizamos o workshop "Open-Source Tools to Enable Geophysical Data Processing and Inversion", na Banff International Resarch Station (BIRS), Canadá. Meu objetivo era organizar uma segunda edição deste encontro em São Paulo. Em 2025 iniciamos um grupo de interessados de ambos os projetos para organizar tal evento. Minha estimativa inicial de organizar o evento ainda 2025 foi precipitada e não havia previsto o tempo que seria necessário corretamente. Atualmente estamos pesquisando as possíveis fontes de financiamento disponíveis. Esperamos preparar uma proposta que possa ser enviada em 2027 para diversas fontes de financiamento. O planejamento do evento está sendo feito de forma aberta e colaborativa em https://hackmd.io/@leouieda/geosprint.
 
 Além disso, fui entrevistado pela Folha de São Paulo para a matéria "Como a crise do clima e a ação humana afetam o tempo na Terra".
 
@@ -102,6 +102,8 @@ Além disso, fui entrevistado pela Folha de São Paulo para a matéria "Como a c
 > Indicar as atividades realizadas do seu projeto de estágio e as metas atingidas, justificando aquelas não atingidas.
 
 Meu projeto de estágio probatório não incluiu metas em inclusão e pertencimento. No entanto, estou participando do programa de tutoria instituído pelo Departamento para auxiliar na retenção e acolhimento de estudantes de graduação em seu primeiro ano. Meu grupo de tutoria conta com duas pessoas do Bacharelado em Geofísica e uma aluna do Bacharelado em Física. Nos reunimos quinzenalmente para discutir temas da graduação e pesquisa em geofísica.
+
+Também realizo atividades recreativas para promover a integração e bem-estar dentro de meu grupo de pesquisa e em conjunto com os grupos dos Profs. Victor Sacek e Carlos Chaves (nossos grupos dividem o espaço de laboratório e interagem rotineiramente). Realizamos confraternizações semestrais dentro e fora da USP.
 
 ## Outras observações que julgar relevante
 
