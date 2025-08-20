@@ -6,45 +6,41 @@
 
 > Indicar estratégias e metas alcançadas em orientações, captação de recursos, internacionalização, publicações e parcerias. Justificar metas não atendidas. Se em RTP, indicar que não se aplica.
 
-Artigos e projetos de acordo com as duas linhas de pesquisa: Antártica
-e micromagnetismo.
+Meu projeto contemplava duas principais áreas de atuação:
 
-Temático Ricardo Ivan Ferreira da Trindade:
-2024/08341-6 O Campo Arqueomagnético e Paleomagnético recente no Hemisfério Sul
-Análise reconsideração.
+1. Análise de dados magnéticos da Antártica.
+2. Microscopia magnética aplicada ao paleomagnetismo.
 
-Temático Marly Babinski
-01/03/2025
-2024/08023-4
-Definindo a Terra moderna, das glaciações extremas do Criogeniano à Explosão Cambriana.
+No período, possuo publicações e orientações em andamento em ambas as áreas. No tema de microscopia, fui o coordenador de um projeto financiado pela Royal Society que se encerrou em março de 2025 e sou pesquisador associado de um projeto temático FAPESP (2024/08023-4) coordenado pela Profa. Marly Babinski. Também sou pesquisador associado em um projeto temático coordenado pelo Prof. Ricardo Trindade que está atualmente em consideração pela FAPESP.
 
-Finalização do projeto Towards individual-grain paleomagnetism: Translating regional-scale geophysics to the
-Royal Society Exchange - Microscopy (IES\R3\213141)
+Artigos publicados:
 
-Artigos
-Souza‐Junior, G. F., Uieda, L., Trindade, R. I. F., Carmo, J., & Fu, R. (2024). Full vector inversion of magnetic microscopy images using Euler deconvolution as prior information. Geochemistry, Geophysics, Geosystems, 25, e2023GC011082. https:// doi.org/10.1029/2023GC011082
+1. Souza‐Junior et al. (2024). Full vector inversion of magnetic microscopy images using Euler deconvolution as prior information. Geochemistry, Geophysics, Geosystems. doi:10.1029/2023GC011082
+2. Uieda et al. (2025). Euler inversion: Locating sources of potential-field data through inversion of Euler's homogeneity equation. Geophysical Journal International. doi:10.1093/gji/ggaf114
+3. Bellon et al. (2025). Efficiency of thermoremanent magnetization acquisition in vortex-state particle assemblies. Geophysical Research Letters. doi:10.1029/2025GL114771
 
-Uieda, L., Souza-Junior, G. F., Uppal, I., Oliveira Jr., V. C. (2025). Euler inversion: Locating sources of potential-field data through inversion of Euler's homogeneity equation. Geophysical Journal International. doi:10.1093/gji/ggaf114.
+Preprints publicados (ambos aceitos para publicação após revisão em periódicos internacionais):
 
-Bellon, U. D., Williams, W., Muxworthy, A. R., Souza-Junior, G. F., Nagy, L., Uieda, L., & Trindade, R. I. (2025). Efficiency of thermoremanent magnetization acquisition in vortex-state particle assemblies. Geophysical Research Letters, 52(8), e2025GL114771. doi:10.1029/2025GL114771
+1. Souza-Junior et al. (2025). Robust directional analysis of magnetic microscopy images using non-linear inversion and iterative Euler deconvolution. EarthArXiv. doi:10.31223/X5N42F
+2. Uppal et al. (2025). Transforming Total Field Anomaly into Anomalous Magnetic Field: Using Dual-Layer Gradient-Boosted Equivalent Sources. EarthArXiv. doi:10.31223/X58B1Q
 
-Preprints
-Souza-Junior, G. F., Uieda, L., Trindade, R. I. F., Fu, R. R., Bellon, U. D., and Castro, Y. M. (2025). Robust directional analysis of magnetic microscopy images using non-linear inversion and iterative Euler deconvolution. EarthArXiv. doi:10.31223/X5N42F
+Orientações concluídas e em andamento:
 
-Uppal, I., Uieda, L., Oliveira Jr., V. C., Holme, R. (2025). Transforming Total Field Anomaly into Anomalous Magnetic Field: Using Dual-Layer Gradient-Boosted Equivalent Sources. EarthArXiv. doi:10.31223/X58B1Q
-
-Orientações:
-Yago Moreira Castro
-Paulo Eduardo Crystal
-Gelson Ferreira Souza Junior
-Gabriel Aparecido das Chagas Silva
-Felipe Nascimento Hong
-Arthur Siqueira de Macêdo
-Ellen Fernandes Marcos
+1. Gelson Ferreira Souza-Junior: Doutorado - bolsa FAPESP (fui inicialmente coorientador do Gelson e passei a ser seu orientador em 2023).
+2. Arthur Siqueira de Macêdo: Mestrado - bolsa CAPES.
+3. Yago Moreira Castro: Mestrado - bolsa CAPES.
+4. Ellen Fernandes Marcos: Iniciação científica e trabalho de conclusão de curso - voluntária (concluída em 12/2024).
+5. Gabriel Aparecido das Chagas Silva: Iniciação científica - bolsas PIBIC (09/2024 - 08/2025) e PUB (09/2025-).
+6. Paulo Eduardo Crystal: Iniciação científica - bolsa PUB Ensino (09/2025-).
+7. Felipe Nascimento Hong: Iniciação científica - voluntário (pleiteando bolsa PIBIC).
 
 Co-orientações:
-India Uppal - Richard Holme
-Eros Kerouak Cordeiro Pereira - Alessandra Bongiolo
+
+1. India Uppal: Doutorado - University of Liverpool (fui inicialmente orientador da India na University of Liverpool e passei a ser seu coorientador quando ingressei na USP em 2023).
+2. Eros Kerouak Cordeiro Pereira: Mestrado - UFPR (orientado pela Profa. Alessandra Bongiolo).
+
+Em internacionalização, organizei uma visita da aluna India Uppal da University of Liverpool ao IAG por três meses em 2024. Sua visita possibilitou a interação de estudantes de graduação e pós-graduação do IAG com uma aluna estrangeira. Também continuo minhas colaborações com cientistas da Harvard University, University of Liverpool, Kiel University e University of Edinburgh.
+
 
 ## Ensino em Graduação
 
