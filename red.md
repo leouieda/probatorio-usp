@@ -103,7 +103,7 @@ Além disso, fui entrevistado pela Folha de São Paulo para a matéria "Como a c
 
 Meu projeto de estágio probatório não incluiu metas em inclusão e pertencimento. No entanto, estou participando do programa de tutoria instituído pelo Departamento para auxiliar na retenção e acolhimento de estudantes de graduação em seu primeiro ano. Meu grupo de tutoria conta com duas pessoas do Bacharelado em Geofísica e uma aluna do Bacharelado em Física. Nos reunimos quinzenalmente para discutir temas da graduação e pesquisa em geofísica.
 
-Também realizo atividades recreativas para promover a integração e bem-estar dentro de meu grupo de pesquisa e em conjunto com os grupos dos Profs. Victor Sacek e Carlos Chaves (nossos grupos dividem o espaço de laboratório e interagem rotineiramente). Realizamos confraternizações semestrais dentro e fora da USP.
+Prezo muito pelo bem-estar de meus orientandos e orientandas e me esforço muito para garantir que todos estão a parte das espectativas e desafios da vida científica. Para tanto, criei um manual para meu grupo de pesquisa (https://www.compgeolab.org/manual) no qual deixo explícitas as minhas espectativas e responsabilidades de cada membro do laboratório. O manual também contem um código de conduta e links para recusos existentes em São Paulo e na USP relacionados ao bem-estar. Também realizo atividades recreativas para promover a integração e bem-estar dentro de meu grupo de pesquisa e em conjunto com os grupos dos Profs. Victor Sacek e Carlos Chaves (nossos grupos dividem o espaço de laboratório e interagem rotineiramente). Realizamos confraternizações semestrais dentro e fora da USP.
 
 ## Outras observações que julgar relevante
 
