@@ -92,9 +92,11 @@ Abaixo estão as atividades que me propus a realizar e meu progresso em cada uma
 
 3. Palhaçaria Científica: Participei como colaborador dos edições de 2024 e 2025 do projeto "PiADA - Palhaçaria Científica", coordenado pelo Prof. George Sand Leão Araújo de França. Minhas contribuições foram somente na parte de organização e divulgação do curso, como estava previsto em meu PED.
 
-4. Student Chapter da SEG: A Society of Exploration Geophysicists (SEG) possui um programa de "capítulos estudantis" que representam a unidade junto á SEG. O IAG teve um Capítulo ativo até 2017, porém as atividades foram aparentemente encerradas. Meu objetivo era encontrar novos estudantes para formar o Capítulo novamente. Embora tenha conversando com diversos estudantes sobre o assunto, não fui capaz de encontrar um número suficientemente grande de estudantes interessados para formarem uma diretoria. Pretendo continuar a procura, particularmente agora que teremos turmas com um maior número de estudantes.
+4. Student Chapter da SEG: A Society of Exploration Geophysicists (SEG) possui um programa de "capítulos estudantis" que representam a unidade junto á SEG. O IAG teve um Capítulo ativo até 2017, porém as atividades foram aparentemente encerradas. Meu objetivo era encontrar novos estudantes para formar o Capítulo novamente. Embora tenha conversando com diversos estudantes sobre o assunto, não fui capaz de encontrar um número suficientemente grande de estudantes interessados para formarem uma diretoria. Pretendo continuar a procura no futuro.
 
 5. Workshop sobre software livre na geofísica: Em julho de 2023, eu e meus colaboradores organizamos o workshop "Open-Source Tools to Enable Geophysical Data Processing and Inversion", na Banff International Resarch Station (BIRS), Canadá. Meu objetivo era organizar uma segunda edição deste encontro em São Paulo. Em 2025 iniciamos um grupo de interessados de ambos os projetos para organizar tal evento. Minha estimativa inicial de organizar o evento ainda 2025 foi precipitada e não havia previsto o tempo que seria necessário corretamente. Atualmente estamos pesquisando as possíveis fontes de financiamento disponíveis. Esperamos preparar uma proposta que possa ser enviada em 2026 para diversas fontes de financiamento. O planejamento do evento está sendo feito de forma aberta e colaborativa em https://hackmd.io/@leouieda/geosprint.
+
+Além disso, fui entrevistado pela Folha de São Paulo para a matéria "Como a crise do clima e a ação humana afetam o tempo na Terra".
 
 ## Inclusão e Pertencimento
 
@@ -104,23 +106,20 @@ Tutorial.
 
 ## Outras observações que julgar relevante
 
+Além das demais atividades descritas, tive ampla atuação na parte administrativa do Departamento:
 
-03/2025 - present. Representante da categoria MS-3 no Conselho do Departamento de Geofísica
-04/2024 - present. Presidente da Comissão de Cooperação Nacional e Internacional
-04/2024 - present. Membro Suplente da Comissão da Biblioteca
-12/2023 - present. Coordenador do Ciclo de Seminários do Departamento de Geofísica do IAG/USP
-10/2023 - present. Representante Titular do IAG no Comitê Gestor do Banco Nacional de Dados Gravimétricos (BNDG)
-10/2023 - present. Membro Titular da Comissão de Cooperação Nacional e Internacional
-10/2023 - present. Membro Suplente da Comissão de Informática
+1. Representante da categoria MS-3 no Conselho do Departamento de Geofísica desde 03/2025.
+2. Presidente da Comissão de Cooperação Nacional e Internacional desde 04/2024.
+3. Membro Titular da Comissão de Cooperação Nacional e Internacional desde 10/2023.
+4. Coordenador do Ciclo de Seminários do Departamento de Geofísica do IAG/USP desde 12/2023.
+5. Representante Titular do IAG no Comitê Gestor do Banco Nacional de Dados Gravimétricos (BNDG) desde 10/2023.
+6. Membro Suplente da Comissão de Informática desde 10/2023.
+7. Membro Suplente da Comissão da Biblioteca desde 04/2024.
+8. Membro da banca examinadora do concurso público de Professor Doutor na área de Geodinâmica (Edital 024-2023).
+9. Embaixador do IAG no Ciência Aberta USP desde 12/2024.
 
-2023 - Concurso público de Professor Doutor na área de Geodinâmica.
+Também exerci as seguintes atividades na comunidade científica nacional e internacional:
 
-Entrevista Folha  Interview for Folha de São Paulo: "Como a crise do clima e a ação humana afetam o tempo na Terra"
-
-Embaixador. Rede Brasileira de Reprodutibilidade.
-
-Embaixador do IAG no Ciência Aberta USP.
-
- Advisory Council Member. EarthArXiv.
-
- Board Member. Software Underground.
+1. Fui selecionado como Embaixador da Rede Brasileira de Reprodutibilidade (https://www.reprodutibilidade.org) em 12/2024.
+2. Faço parte do Advisory Council do servidor de preprints EarthArXiv (https://eartharxiv.org).
+3. Faço parte da Diretoria (Board) da organização Software Underground (https://softwareunderground.org).
