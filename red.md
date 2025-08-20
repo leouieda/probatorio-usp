@@ -102,7 +102,7 @@ Além disso, fui entrevistado pela Folha de São Paulo para a matéria "Como a c
 
 > Indicar as atividades realizadas do seu projeto de estágio e as metas atingidas, justificando aquelas não atingidas.
 
-Tutorial.
+Meu projeto de estágio probatório não incluiu metas em inclusão e pertencimento. No entanto, estou participando do programa de tutoria instituído pelo Departamento para auxiliar na retenção e acolhimento de estudantes de graduação em seu primeiro ano. Meu grupo de tutoria conta com duas pessoas do Bacharelado em Geofísica e uma aluna do Bacharelado em Física. Nos reunimos quinzenalmente para discutir temas da graduação e pesquisa em geofísica.
 
 ## Outras observações que julgar relevante
 
