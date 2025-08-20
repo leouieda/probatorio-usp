@@ -72,12 +72,15 @@ Em 2024, fui escolhido como Paraninfo da turma de formandos do Bacharelado em Ge
 
 > Indicar as atividades realizadas do seu projeto de estágio e as metas atingidas, justificando aquelas não atingidas. Se em RTP, indicar que não se aplica.
 
-AGG5740 - Teoria de Inversão em Geofísica
-AGG5957 - Gravimetria e Magnetometria
-AGG5949 - Tópicos Gerais de Geofísica
-AGG5954 - Modelagem e Interpretação de Dados de Gravimetria e Magnetometria
+Em meu projeto, me propus a ministrar a disciplina AGG5740 - Teoria de Inversão em Geofísica na pós-graduação. Assumi esta disciplina em 2025 e a ministrei pela primeira vez no primeiro semestre. Além desta disciplina, também ministrei:
 
-01/2024 - present. Membro da Comissão de Qualificações do Programa de Geofísica
+AGG5957 - Gravimetria e Magnetometria: Disciplina optativa, introduzida por mim e a Profa. Renata Constantino em 2025 para suprir a demanda da pós-graduação por um curso de métodos potenciais.
+
+AGG5949 - Tópicos Gerais de Geofísica: Disciplina obrigatória do curso de Doutorado em Geofísica. Eu e a Profa. Andrea Ustra somos responsáveis pelo oferecimento desta disciplina no segundo semestre enquanto os Profs. Carlos Mendonça e Maurício Bologna a oferecem no primeiro semestre.
+
+AGG5954 - Modelagem e Interpretação de Dados de Gravimetria e Magnetometria: Disciplina intensiva oferecida durante a Escola de Verão da Geofísica de 2024.
+
+Sou membro credenciado pelo no programa de Pós-graduação em Geofísica do IAG. Desde janeiro de 2024, atuo como membro da Comissão de Qualificações do programa junto com o Prof. Carlos Mendonça.
 
 
 ## Cultura e Extensão
