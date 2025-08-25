@@ -7,6 +7,8 @@ Documentos submetidos para o Estágio Docente da USP (equivalente ao período de
 * Relatório de Participação no Programa de Recepção Docente (RPPRD): Relatório sobre a participação no evento de recepção 🙄.
 * Projeto de estágio docente final (PED-final): Projeto para último ano do estágio docente.
 
+**PDFs** estão disponíveis em: https://github.com/leouieda/probatorio-usp/releases
+
 Links úteis:
 
 * [RESOLUÇÃO Nº 7271, 23 DE NOVEMBRO DE 2016](https://leginf.usp.br/?resolucao=resolucao-no-7271-23-de-novembro-de-2016): Estatuto do docente.
